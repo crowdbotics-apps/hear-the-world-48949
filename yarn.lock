@@ -1466,6 +1466,9 @@
     react-native-qrcode-svg "6.1.2"
     react-native-svg "12.3.0"
 
+"@modules/faq@file:./modules/faq":
+  version "1.0.0"
+
 "@modules/maps@file:./modules/maps":
   version "1.0.0"
 
@@ -1506,7 +1509,7 @@
     prop-types "15.8.1"
     react-native-elements "^2.3.2"
 
-"@modules/zoom-free-calling@file:./modules/zoom-free-calling/":
+"@modules/zoom-free-calling@file:./modules/zoom-free-calling":
   version "1.0.1"
   dependencies:
     react-native-base64 "0.2.1"
